@@ -1,0 +1,11 @@
+TASK-5
+
+1. Is the website responsive according to the all the 3 sizes mention in assignment?
+
+2. What about the accurate colours, is that supplied from the mood board?
+
+3. Does all the images are loaded on the testers machine or on code anywhere?
+
+4. Does the repository is cloned in the correct way?
+
+5.What you think about the website, is everything clear and easy to use?
